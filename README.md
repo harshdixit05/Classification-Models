@@ -18,21 +18,6 @@ This project builds a classification model to predict whether a site is **"Dange
 - **Programming Language:** Python
 - **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
 
-## Installation & Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/air-quality-classification.git
-   cd air-quality-classification
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the model:
-   ```bash
-   python main.py
-   ```
-
 ## Results
 - Model performance evaluated with classification metrics.
 - Decision boundaries visualized for both models.
